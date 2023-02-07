@@ -1,0 +1,37 @@
+body{
+margin: 0 ;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+nav{ 
+   background-color: black;
+    padding:  0 20px;
+justify-content: space-between;
+align-items: center}
+
+
+.pai{
+display: flex;justify-content: space-between;
+align-items: center; background-color:grey}
+
+
+   p{
+       color: yellow;
+      padding-left: 100px;
+      padding-right: 80px;}
+ 
+h1{
+    color: yellow;
+    padding: 10px;
+ }
+ nav, ul{
+     display: flex
+     ;flex-direction: row;
+ }
+ li{ 
+     padding: 20px;
+
+ }
+ 
